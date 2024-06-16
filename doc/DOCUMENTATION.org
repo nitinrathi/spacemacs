@@ -2015,7 +2015,7 @@ For more information go to the layers documentation for [[https://github.com/syl
 ** Discovering
 *** Key bindings
 **** Which-key
-A help buffer is displayed each time the ~SPC~ key is pressed in normal mode.
+A helm buffer is displayed each time the ~SPC~ key is pressed in normal mode.
 It lists the available key bindings and their associated commands.
 
 By default the [[https://github.com/justbur/emacs-which-key][which-key]] buffer will be displayed quickly after the key has been
